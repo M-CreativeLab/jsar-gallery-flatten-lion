@@ -9,7 +9,7 @@ The flatten lion JSAR widget which is a reimplemetation for this threejs example
 Type the following URL in JSAR runtime:
 
 ```sh
-https://cdn.jsdelivr.net/gh/M-CreativeLab/jsar-gallery-flatten-lion@main/main.xsml
+https://cdn.jsdelivr.net/gh/M-CreativeLab/jsar-gallery-flatten-lion@main/lib/main.xsml
 ```
 
 ## License
