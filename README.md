@@ -1,17 +1,15 @@
-# template-for-jsar-widget
+# jsar-gallery-flatten-lion
 
-The template repository for creating the JSAR Widget.
+The flatten lion JSAR widget which is a reimplemetation for this threejs example: [lion](https://codepen.io/Yakudoo/pen/YXxmYR).
 
-## How to use
-
-Create your GitHub repository via [this link](https://github.com/new?template_name=template-for-jsar-widget&template_owner=M-CreativeLab), this uses the template repository to create your repository.
+![icon](./icon.png)
 
 ## Open
 
 Type the following URL in JSAR runtime:
 
 ```sh
-https://cdn.jsdelivr.net/gh/M-CreativeLab/template-for-jsar-widget@main/main.xsml
+https://cdn.jsdelivr.net/gh/M-CreativeLab/jsar-gallery-flatten-lion@main/main.xsml
 ```
 
 ## License
