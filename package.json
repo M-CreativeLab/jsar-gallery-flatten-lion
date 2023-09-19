@@ -1,21 +1,20 @@
 {
-  "name": "your-jsar-widget-name",
-  "displayName": "JSAR Display Name",
+  "name": "jsar-gallery-flatten-lion",
+  "displayName": "爱吹风的辛巴",
   "version": "1.0.0",
-  "description": "The template widget",
-  "main": "main.xsml",
+  "description": "The mstudio gallery for JSAR",
+  "main": "lib/lion.xsml",
   "scripts": {},
   "files": [
     "icon.png",
-    "main.xsml",
-    "lib/*.ts",
-    "model/welcome.glb"
+    "lib/*.xsml",
+    "lib/*.js"
   ],
   "icon3d": {
-    "base": "./model/welcome.glb"
+    "base": "./model/earth.glb"
   },
   "author": "Yorkie Liu <yorkiefixer@gmail.com>",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "devDependencies": {
     "@yodaos-jsar/types": "^1.4.0"
   }
